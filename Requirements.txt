@@ -1,0 +1,17 @@
+# Core Packages
+ultralytics==8.0.196  # YOLOv8
+opencv-python==4.8.0.76  # OpenCV with contrib modules
+opencv-contrib-python==4.8.0.76  # SIFT feature support
+numpy==1.24.4
+torch==2.0.1  # PyTorch base
+
+# Tracking Utilities
+scikit-image==0.21.0  # Image processing
+filterpy==1.4.5  # Kalman filters
+lap==0.4.0  # Linear assignment problem solver
+
+# Utilities
+tqdm==4.66.1  # Progress bars
+pandas==2.0.3  # Data handling
+matplotlib==3.7.2  # Visualization
+seaborn==0.12.2  # Enhanced plots
